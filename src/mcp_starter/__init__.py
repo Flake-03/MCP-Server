@@ -1,0 +1,1 @@
+"""FastMCP HTTP starter package."""
